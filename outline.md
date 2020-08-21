@@ -1,8 +1,0 @@
-# DC Project Outline
-
-## Thesis
-
-
-
-
-
