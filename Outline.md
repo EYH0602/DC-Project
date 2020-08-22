@@ -1,26 +1,28 @@
 # DC Project Outline
 
+**Gaining Voice: Transformations of the undocumented youth movement in CIJYA**
+
 ## Thesis
 
-By using ethos, pathos, and logos, CIJYA sufficiently and effectively conveys its idea to the public and the government, evoking more and more people to support its abolition movement.
+In the past decades, more undocumented youth have come out of the shadows to struggle against the criminalization and discrimination they encountered and fight for their rights in community, society, and the United States. Among the surging youth-led alliances, California Immigrant Youth Justice Alliance (CIYJA) is one of the most predominant organizations that focus on placing undocumented youth in advocacy and policy delegations. By strategically employing empowering practices, CIYJA launches a transformational movement that goes beyond narrowly defined legalization and attempts to gain radical egalitarian citizenship. This paper will focus on their strategies of storytelling and organizing diverse communities, analyzing and arguing how these practices give voice to community members, expand the Dreamer narrative, and mobilize undocumented youth as well as the public.
 
 ## Ethos
 
-* [letter to Attorney General](https://ciyja.org/mvhungerstrike/) and [statement to sheriff](https://ciyja.org/oc-jails-statement/) show that CIJYA and other organizations are really doing the work, adding credibility to its articles calling for action and conveying ideas.
+* [letter to Attorney General](https://ciyja.org/mvhungerstrike/) and [statement to sheriff](https://ciyja.org/oc-jails-statement/) show that CIYJA and other organizations are really doing the work, adding credibility to its articles calling for action and conveying ideas.
 
 
 
 ## Pathos / diction
 
-* When CIJYA talks about government policy, statements and related subjects, it always use "we" to denote the immigrant community and often use verb like "must", "will not", and "first" to appeal to audience's emotion in many of [its articles](https://ciyja.org/category/opinions/).
+* When CIYJA talks about government policy, statements and related subjects, it always use "we" to denote the immigrant community and often use verb like "must", "will not", and "first" to appeal to audience's emotion in many of [its articles](https://ciyja.org/category/opinions/).
 
-    * By always using "we" as the pronoun, the audiences will know that CIJYA is on their side against the government, even they do not know what is CIJYA.
-        * CIJYA use this method to make itself looks like the representation of the whole undocumented youth community (or even the whole prison abolition community) to draw more audience for its opinions and articles, which makes their opinions and articles more influential.
+    * By always using "we" as the pronoun, the audiences will know that CIYJA is on their side against the government, even they do not know what is CIYJA.
+        * CIYJA use this method to make itself looks like the representation of the whole undocumented youth community (or even the whole prison abolition community) to draw more audience for its opinions and articles, which makes their opinions and articles more influential.
         * highlight the collective identity of this community
-    * By constantly using "must", "will not", and "first" in the title of articles, CIJYA gives the audience a short spoiler at beginning, and this spoiler makes the audiences more interested in reading this article to find out why.
+    * By constantly using "must", "will not", and "first" in the title of articles, CIYJA gives the audience a short spoiler at beginning, and this spoiler makes the audiences more interested in reading this article to find out why.
 
 * Some articles are based on real case events, for example, [the experience of Valeria Suarez](https://ciyja.org/freedvaleria/). 
-    * To lead other people in the community to notice CIJYA
+    * To lead other people in the community to notice CIYJA
     * show its ability to solve the problem by calling all community into action
 
 ## connotation
