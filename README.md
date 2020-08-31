@@ -22,7 +22,10 @@ I got the inspiration of analyzing storytelling as a rhetorical strategy from on
 
 Besides the lack of originality in structure, I have also concern about the analysis part in the paper. According to the one of the peer reviews, it would be better if more analysis is added before and after the citation, which I managed to do in the second draft. Another peer review points out my conclusion is a little weak, which I haven’t revised dramatically in this draft because of time and length constraint, but I will revise it in the final draft. Other revisions I have made after reading peer reviews also include 
 
-1.  to balance the weight of citations and my own voice; 
-2. to add better transitions within paragraphs, especially after citations. Finally, I am not sure about the format of long quotes. I adopted the formatting instructed on the OWL website, with $\frac{1}{2}$ inch indent from the left margin, while some websites state it should be 1 inch. 
+1. to balance the weight of citations and my own voice; 
+
+2. to add better transitions within paragraphs, especially after citations. 
+
+Finally, I am not sure about the format of long quotes. I adopted the formatting instructed on the OWL website, with $\frac{1}{2}$ inch indent from the left margin, while some websites state it should be 1 inch. 
 
  
